@@ -1,0 +1,17 @@
+{
+  "name": "xray9ja",
+  "version": "1.0.0",
+  "description": "music download site",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "XrayBrain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.0.2",
+    "nodemon": "^1.19.2"
+  }
+}
